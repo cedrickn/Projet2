@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    border: solid thin black;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 300px;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+    padding-bottom: 2%;
+}
+
+.buttons {
+    display: flex;
+}
+
+// .button {
+//     text-align: center;
+//     margin-top: 10%;
+//     margin-right: 2%;
+//     border-color: rgb(172, 161, 119);
+//     background-color: rgb(237, 222, 164);
+//     border-radius: 20px;
+//     border: solid 2px #0e0e0e;
+// }
